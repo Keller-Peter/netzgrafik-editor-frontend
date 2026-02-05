@@ -3,7 +3,6 @@
 This document provides the governance policy for the Project. Maintainers and Business Domain Stewards agree to this policy and to abide by all Project policies, including the [code of conduct](./CODE_OF_CONDUCT.md) by adding their name to the [`MAINTAINERS.md` file](./MAINTAINERS.md).
 
 ## 1. Principles
-
 The project operates according to established open source principles and values.
 
 - **Equal Access** - The project is run in a way that provides equal access to all contributors. Decisions are made based on the merit of a contribution and its alignment with the goals of the project, not on the status or affiliation of contributors.
